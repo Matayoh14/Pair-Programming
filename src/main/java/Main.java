@@ -1,7 +1,7 @@
 public class Main {
-    public static void main(String[] args) {
-        Factorials f = new Factorials();
-        System.out.println(f.reverseFactorial(120));
-        System.out.println(f.reverseFactorial(150));
-    }
+	public static void main(String[] args) {
+		Doggo_Competition dc = new Doggo_Competition();
+		System.out.println(dc.winner(1));
+
+	}
 }
